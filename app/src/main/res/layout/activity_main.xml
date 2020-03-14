@@ -17,12 +17,5 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
-        <androidx.gridlayout.widget.GridLayout
-            android:layout_weight="1"
-            android:id="@+id/gl"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        </androidx.gridlayout.widget.GridLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
