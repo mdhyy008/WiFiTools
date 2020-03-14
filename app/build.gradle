@@ -8,7 +8,7 @@ android {
         applicationId "com.dabai.wifiseepass"
         minSdkVersion 15
         targetSdkVersion 29
-        versionCode 17
+        versionCode 19
         versionName "1.0_" + versionCode
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
